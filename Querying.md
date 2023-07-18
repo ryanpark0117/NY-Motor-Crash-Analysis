@@ -23,7 +23,7 @@ WHERE crash_descriptor != 'Property Damage Accident';
 ```
 **Answer:**
 
-<img width="140" alt="Screenshot 2023-07-18 at 11 59 42 AM" src="https://github.com/ryanpark0117/images/assets/135900740/3b85fed9-370a-4c66-8eca-e5e0dd5f8acf">
+<img width="120" alt="Screenshot 2023-07-18 at 11 59 42 AM" src="https://github.com/ryanpark0117/images/assets/135900740/3b85fed9-370a-4c66-8eca-e5e0dd5f8acf">
 
 ***
 
@@ -150,6 +150,6 @@ SELECT
 ```
 **Answer:**
 
-<img width="50" alt="Screenshot 2023-07-18 at 12 03 35 PM" src="https://github.com/ryanpark0117/images/assets/135900740/3aa87eaf-ddba-492d-b5f9-3b4b0ca4ac5d">
+<img width="100" alt="Screenshot 2023-07-18 at 12 03 35 PM" src="https://github.com/ryanpark0117/images/assets/135900740/3aa87eaf-ddba-492d-b5f9-3b4b0ca4ac5d">
 
 ***
