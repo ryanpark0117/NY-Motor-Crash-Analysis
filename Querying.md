@@ -9,8 +9,9 @@ FROM crash_setting;
 ```
 **Answer:**
 
-![Screenshot](/Users/pantsu/Desktop/Screenshot 2023-07-18 at 11.59.08 AM.png)
+<img width="95" alt="Screenshot 2023-07-18 at 11 59 08 AM" src="https://github.com/ryanpark0117/images/assets/135900740/e76dc28f-6d39-407f-ad94-627fb67c5955">
 
+***
 
 ### Q2: What percentage of injury related accidents are fatal? 
 
