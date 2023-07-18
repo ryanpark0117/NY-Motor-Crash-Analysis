@@ -7,5 +7,5 @@
 - Crash data recorded in state of NY between 01/01/2017 to 12/31/2021 from [data.gov](https://catalog.data.gov/dataset/motor-vehicle-crashes-case-information-three-year-window)
 
 ### Tools
-- MySQL querying 
+- MySQL [querying](https://github.com/ryanpark0117/NY-Motor-Crash-Analysis/blob/main/Querying.md) 
 - Tableau data [visualization](https://public.tableau.com/app/profile/ryan.park7995/viz/NYCrashDashboard/Dashboard1)
