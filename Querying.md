@@ -43,7 +43,7 @@ FROM (SELECT
 ```
 **Answer:**
 
-<img width="200" alt="Screenshot 2023-07-18 at 12 00 15 PM" src="https://github.com/ryanpark0117/images/assets/135900740/0fb9e962-1840-49c4-af7e-1aea5c8a31c3">
+<img width="220" alt="Screenshot 2023-07-18 at 12 00 15 PM" src="https://github.com/ryanpark0117/images/assets/135900740/0fb9e962-1840-49c4-af7e-1aea5c8a31c3">
 
 ***
 
@@ -66,7 +66,7 @@ GROUP BY event_type;
 ```
 **Answer:**
 
-<img width="200" alt="Screenshot 2023-07-18 at 12 00 40 PM" src="https://github.com/ryanpark0117/images/assets/135900740/8504ef85-ff51-49f9-ae77-f885374b4488">
+<img width="220" alt="Screenshot 2023-07-18 at 12 00 40 PM" src="https://github.com/ryanpark0117/images/assets/135900740/8504ef85-ff51-49f9-ae77-f885374b4488">
 
 ***
 
@@ -89,7 +89,7 @@ LIMIT 10;
 ```
 **Answer:**
 
-<img width="265" alt="Screenshot 2023-07-18 at 12 01 13 PM" src="https://github.com/ryanpark0117/images/assets/135900740/e426e67f-3ffa-43f5-ba37-090d2308c676">
+<img width="300" alt="Screenshot 2023-07-18 at 12 01 13 PM" src="https://github.com/ryanpark0117/images/assets/135900740/e426e67f-3ffa-43f5-ba37-090d2308c676">
 
 ***
 
@@ -115,7 +115,7 @@ WHERE fatal_accident_count = (SELECT
 ```
 **Answer:**              
 
-<img width="200" alt="Screenshot 2023-07-18 at 12 01 32 PM" src="https://github.com/ryanpark0117/images/assets/135900740/bd8074e4-8365-4f51-be87-0b48ef96052d">
+<img width="220" alt="Screenshot 2023-07-18 at 12 01 32 PM" src="https://github.com/ryanpark0117/images/assets/135900740/bd8074e4-8365-4f51-be87-0b48ef96052d">
 
 ***
 
