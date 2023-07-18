@@ -9,7 +9,7 @@ FROM crash_setting;
 ```
 **Answer:**
 
-<img width="188" alt="Screenshot 2023-07-18 at 11 59 08 AM" src="https://github.com/ryanpark0117/images/assets/135900740/e76dc28f-6d39-407f-ad94-627fb67c5955">
+<img width="140" alt="Screenshot 2023-07-18 at 11 59 08 AM" src="https://github.com/ryanpark0117/images/assets/135900740/e76dc28f-6d39-407f-ad94-627fb67c5955">
 
 ***
 
@@ -23,7 +23,7 @@ WHERE crash_descriptor != 'Property Damage Accident';
 ```
 **Answer:**
 
-<img width="66" alt="Screenshot 2023-07-18 at 11 59 42 AM" src="https://github.com/ryanpark0117/images/assets/135900740/3b85fed9-370a-4c66-8eca-e5e0dd5f8acf">
+<img width="140" alt="Screenshot 2023-07-18 at 11 59 42 AM" src="https://github.com/ryanpark0117/images/assets/135900740/3b85fed9-370a-4c66-8eca-e5e0dd5f8acf">
 
 ***
 
