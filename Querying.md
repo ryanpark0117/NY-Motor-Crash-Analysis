@@ -43,7 +43,7 @@ FROM (SELECT
 ```
 **Answer:**
 
-<img width="240" alt="Screenshot 2023-07-18 at 12 00 15 PM" src="https://github.com/ryanpark0117/images/assets/135900740/0fb9e962-1840-49c4-af7e-1aea5c8a31c3">
+<img width="250" alt="Screenshot 2023-07-18 at 12 00 15 PM" src="https://github.com/ryanpark0117/images/assets/135900740/0fb9e962-1840-49c4-af7e-1aea5c8a31c3">
 
 ***
 
@@ -115,7 +115,7 @@ WHERE fatal_accident_count = (SELECT
 ```
 **Answer:**              
 
-<img width="220" alt="Screenshot 2023-07-18 at 12 01 32 PM" src="https://github.com/ryanpark0117/images/assets/135900740/bd8074e4-8365-4f51-be87-0b48ef96052d">
+<img width="230" alt="Screenshot 2023-07-18 at 12 01 32 PM" src="https://github.com/ryanpark0117/images/assets/135900740/bd8074e4-8365-4f51-be87-0b48ef96052d">
 
 ***
 
