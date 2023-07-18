@@ -89,7 +89,7 @@ LIMIT 10;
 ```
 **Answer:**
 
-<img width="300" alt="Screenshot 2023-07-18 at 12 01 13 PM" src="https://github.com/ryanpark0117/images/assets/135900740/e426e67f-3ffa-43f5-ba37-090d2308c676">
+<img width="350" alt="Screenshot 2023-07-18 at 12 01 13 PM" src="https://github.com/ryanpark0117/images/assets/135900740/e426e67f-3ffa-43f5-ba37-090d2308c676">
 
 ***
 
@@ -134,7 +134,7 @@ HAVING COUNT(*) = (SELECT MAX(accidents) FROM
 ```
 **Answer:**      
 
-<img width="200" alt="Screenshot 2023-07-18 at 12 03 12 PM" src="https://github.com/ryanpark0117/images/assets/135900740/11ee5a43-abba-4208-831e-4ef1d7b77078">
+<img width="190" alt="Screenshot 2023-07-18 at 12 03 12 PM" src="https://github.com/ryanpark0117/images/assets/135900740/11ee5a43-abba-4208-831e-4ef1d7b77078">
 
 ***
                         
