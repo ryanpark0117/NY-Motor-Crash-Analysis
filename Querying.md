@@ -43,7 +43,7 @@ FROM (SELECT
 ```
 **Answer:**
 
-<img width="220" alt="Screenshot 2023-07-18 at 12 00 15 PM" src="https://github.com/ryanpark0117/images/assets/135900740/0fb9e962-1840-49c4-af7e-1aea5c8a31c3">
+<img width="240" alt="Screenshot 2023-07-18 at 12 00 15 PM" src="https://github.com/ryanpark0117/images/assets/135900740/0fb9e962-1840-49c4-af7e-1aea5c8a31c3">
 
 ***
 
@@ -66,7 +66,7 @@ GROUP BY event_type;
 ```
 **Answer:**
 
-<img width="220" alt="Screenshot 2023-07-18 at 12 00 40 PM" src="https://github.com/ryanpark0117/images/assets/135900740/8504ef85-ff51-49f9-ae77-f885374b4488">
+<img width="240" alt="Screenshot 2023-07-18 at 12 00 40 PM" src="https://github.com/ryanpark0117/images/assets/135900740/8504ef85-ff51-49f9-ae77-f885374b4488">
 
 ***
 
@@ -134,7 +134,7 @@ HAVING COUNT(*) = (SELECT MAX(accidents) FROM
 ```
 **Answer:**      
 
-<img width="190" alt="Screenshot 2023-07-18 at 12 03 12 PM" src="https://github.com/ryanpark0117/images/assets/135900740/11ee5a43-abba-4208-831e-4ef1d7b77078">
+<img width="200" alt="Screenshot 2023-07-18 at 12 03 12 PM" src="https://github.com/ryanpark0117/images/assets/135900740/11ee5a43-abba-4208-831e-4ef1d7b77078">
 
 ***
                         
