@@ -23,6 +23,10 @@ WHERE crash_descriptor != 'Property Damage Accident';
 ```
 **Answer:**
 
+<img width="66" alt="Screenshot 2023-07-18 at 11 59 42 AM" src="https://github.com/ryanpark0117/images/assets/135900740/3b85fed9-370a-4c66-8eca-e5e0dd5f8acf">
+
+***
+
 ### Q3: What are the average number of vehicles involved in injury vs non-injury related cases? 
 
 ```sql
@@ -38,6 +42,10 @@ FROM (SELECT
 	FROM crash_conditions) c;
 ```
 **Answer:**
+
+<img width="188" alt="Screenshot 2023-07-18 at 12 00 15 PM" src="https://github.com/ryanpark0117/images/assets/135900740/0fb9e962-1840-49c4-af7e-1aea5c8a31c3">
+
+***
 
 ### Q4: What percentage of motor crashes are collision vs non-collision? 
 
@@ -58,6 +66,10 @@ GROUP BY event_type;
 ```
 **Answer:**
 
+<img width="174" alt="Screenshot 2023-07-18 at 12 00 40 PM" src="https://github.com/ryanpark0117/images/assets/135900740/8504ef85-ff51-49f9-ae77-f885374b4488">
+
+***
+
 ### Q5: Which 10 counties accounted for the most amount of accidents? 
 
 First, create variable referencing count of all motor crashes in database
@@ -76,6 +88,10 @@ ORDER BY num_of_accidents DESC
 LIMIT 10;
 ```
 **Answer:**
+
+<img width="265" alt="Screenshot 2023-07-18 at 12 01 13 PM" src="https://github.com/ryanpark0117/images/assets/135900740/e426e67f-3ffa-43f5-ba37-090d2308c676">
+
+***
 
 ### Q6: Which county accounted for the most amount of fatal accidents? 
 
@@ -99,6 +115,10 @@ WHERE fatal_accident_count = (SELECT
 ```
 **Answer:**              
 
+<img width="177" alt="Screenshot 2023-07-18 at 12 01 32 PM" src="https://github.com/ryanpark0117/images/assets/135900740/bd8074e4-8365-4f51-be87-0b48ef96052d">
+
+***
+
 ### Q7: In which hour did the most amount of accidents happen? 
 
 ```sql
@@ -112,7 +132,11 @@ HAVING COUNT(*) = (SELECT MAX(accidents) FROM
 		        FROM crash_setting 
 			GROUP BY EXTRACT(HOUR FROM time)) a);
 ```
-**Answer:**                     
+**Answer:**      
+
+<img width="141" alt="Screenshot 2023-07-18 at 12 03 12 PM" src="https://github.com/ryanpark0117/images/assets/135900740/11ee5a43-abba-4208-831e-4ef1d7b77078">
+
+***
                         
 ### Q8: What is the average time that fatal crashes take place in?
 
@@ -125,3 +149,7 @@ SELECT
    WHERE c.crash_descriptor = 'Fatal Accident';
 ```
 **Answer:**
+
+<img width="50" alt="Screenshot 2023-07-18 at 12 03 35 PM" src="https://github.com/ryanpark0117/images/assets/135900740/3aa87eaf-ddba-492d-b5f9-3b4b0ca4ac5d">
+
+***
