@@ -9,6 +9,7 @@ FROM crash_setting;
 ```
 **Answer:**
 
+[](/Users/pantsu/Desktop/Screenshot 2023-07-18 at 11.59.08 AM.png)
 
 
 ### Q2: What percentage of injury related accidents are fatal? 
