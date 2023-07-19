@@ -23,7 +23,7 @@ WHERE crash_descriptor != 'Property Damage Accident';
 ```
 **Answer:**
 
-<img width="100" alt="Screenshot 2023-07-18 at 11 59 42 AM" src="https://github.com/ryanpark0117/images/assets/135900740/3b85fed9-370a-4c66-8eca-e5e0dd5f8acf">
+<img width="111" alt="Screenshot 2023-07-19 at 12 56 17 AM" src="https://github.com/ryanpark0117/NY-Motor-Crash-Analysis/assets/135900740/970226e9-d728-4b03-85e8-e3f26706db0c">
 
 ***
 
@@ -43,7 +43,7 @@ FROM (SELECT
 ```
 **Answer:**
 
-<img width="260" alt="Screenshot 2023-07-18 at 12 00 15 PM" src="https://github.com/ryanpark0117/images/assets/135900740/0fb9e962-1840-49c4-af7e-1aea5c8a31c3">
+<img width="269" alt="Screenshot 2023-07-19 at 12 58 12 AM" src="https://github.com/ryanpark0117/NY-Motor-Crash-Analysis/assets/135900740/ad36df1b-1bb1-45d0-be3a-8fc08cadd7e8">
 
 ***
 
@@ -66,8 +66,7 @@ GROUP BY event_type;
 ```
 **Answer:**
 
-<img width="240" alt="Screenshot 2023-07-18 at 12 00 40 PM" src="https://github.com/ryanpark0117/images/assets/135900740/8504ef85-ff51-49f9-ae77-f885374b4488">
-
+<img width="255" alt="Screenshot 2023-07-19 at 12 59 17 AM" src="https://github.com/ryanpark0117/NY-Motor-Crash-Analysis/assets/135900740/334b59d6-b7f7-42dd-ac5d-885b0d0828c6">
 ***
 
 ### Q5: Which 10 counties accounted for the most amount of accidents? 
