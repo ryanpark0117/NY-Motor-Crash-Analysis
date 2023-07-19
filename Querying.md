@@ -67,6 +67,7 @@ GROUP BY event_type;
 **Answer:**
 
 <img width="255" alt="Screenshot 2023-07-19 at 12 59 17 AM" src="https://github.com/ryanpark0117/NY-Motor-Crash-Analysis/assets/135900740/334b59d6-b7f7-42dd-ac5d-885b0d0828c6">
+
 ***
 
 ### Q5: Which 10 counties accounted for the most amount of accidents? 
@@ -88,7 +89,7 @@ LIMIT 10;
 ```
 **Answer:**
 
-<img width="350" alt="Screenshot 2023-07-18 at 12 01 13 PM" src="https://github.com/ryanpark0117/images/assets/135900740/e426e67f-3ffa-43f5-ba37-090d2308c676">
+<img width="265" alt="Screenshot 2023-07-18 at 12 01 13 PM" src="https://github.com/ryanpark0117/NY-Motor-Crash-Analysis/assets/135900740/3017017d-3f87-4f1b-a814-a07c2e3751e8">
 
 ***
 
