@@ -89,7 +89,7 @@ LIMIT 10;
 ```
 **Answer:**
 
-<img width="265" alt="Screenshot 2023-07-18 at 12 01 13 PM" src="https://github.com/ryanpark0117/NY-Motor-Crash-Analysis/assets/135900740/3017017d-3f87-4f1b-a814-a07c2e3751e8">
+<img width="360" alt="Screenshot 2023-07-19 at 1 01 51 AM" src="https://github.com/ryanpark0117/NY-Motor-Crash-Analysis/assets/135900740/65665de1-2018-47b4-a4de-7692402ed219">
 
 ***
 
@@ -115,7 +115,7 @@ WHERE fatal_accident_count = (SELECT
 ```
 **Answer:**              
 
-<img width="240" alt="Screenshot 2023-07-18 at 12 01 32 PM" src="https://github.com/ryanpark0117/images/assets/135900740/bd8074e4-8365-4f51-be87-0b48ef96052d">
+<img width="249" alt="Screenshot 2023-07-19 at 1 03 03 AM" src="https://github.com/ryanpark0117/NY-Motor-Crash-Analysis/assets/135900740/df3c3e5c-fe0c-40bc-8193-5e59a3576b12">
 
 ***
 
@@ -134,7 +134,7 @@ HAVING COUNT(*) = (SELECT MAX(accidents) FROM
 ```
 **Answer:**      
 
-<img width="200" alt="Screenshot 2023-07-18 at 12 03 12 PM" src="https://github.com/ryanpark0117/images/assets/135900740/11ee5a43-abba-4208-831e-4ef1d7b77078">
+<img width="202" alt="Screenshot 2023-07-19 at 1 03 28 AM" src="https://github.com/ryanpark0117/NY-Motor-Crash-Analysis/assets/135900740/408749b5-20a7-4ea6-a71d-2881132d83e1">
 
 ***
                         
@@ -150,6 +150,6 @@ SELECT
 ```
 **Answer:**
 
-<img width="80" alt="Screenshot 2023-07-18 at 12 03 35 PM" src="https://github.com/ryanpark0117/images/assets/135900740/3aa87eaf-ddba-492d-b5f9-3b4b0ca4ac5d">
+<img width="83" alt="Screenshot 2023-07-19 at 1 03 51 AM" src="https://github.com/ryanpark0117/NY-Motor-Crash-Analysis/assets/135900740/5d2767b5-1344-4b34-88b9-2cc57c1cc910">
 
 ***
