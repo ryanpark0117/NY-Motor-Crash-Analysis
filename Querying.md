@@ -9,7 +9,7 @@ FROM crash_setting;
 ```
 **Answer:**
 
-<img width="95" alt="Screenshot 2023-07-18 at 11 59 08 AM" src="https://github.com/ryanpark0117/NY-Motor-Crash-Analysis/assets/135900740/17e8bd7d-c8f5-4862-8696-ba098e3571bd">
+<img width="145" alt="Screenshot 2023-07-18 at 5 59 56 PM" src="https://github.com/ryanpark0117/NY-Motor-Crash-Analysis/assets/135900740/dc68aa4f-7f96-440f-82ae-3cc146ea6f08">
 
 ***
 
